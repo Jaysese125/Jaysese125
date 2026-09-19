@@ -1,10 +1,10 @@
 👋 Hi, I’m @Jaysese125  
 
 👀 I’m interested in  
-Operating Systems • Cybersecurity • Networking • Cloud Security • Ethical Hacking  
+Full-stack Development • Software Engineering • Networking • Cloud Infrastructure • Operating Systems • Cybersecurity • Cloud Security • Ethical Hacking  
 
 🌱 I’m currently learning  
-Linux • Python • Nmap • Wireshark • Nginx • Docker • Fail2Ban • UFW  
+Linux • Python • Japanese
 
 📫 How to reach me  
 📧 Email: sese.christianjay.bayaron@gmail.com  
