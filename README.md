@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @Jaysese125  
 
 **👀 I’m interested in**  
-Full-Stack Development • Software Engineering • Cloud Infrastructure • Database Management
+Full-Stack Development • Backend Architecture • AI/Machine Learning • Cloud Infrastructure
 
 **🌱 I’m currently learning**  
 Linux • Python • Japanese
@@ -12,7 +12,7 @@ Linux • Python • Japanese
 🌐 Portfolio: **[jaysese125.github.io/my-portfolio](https://jaysese125.github.io/my-portfolio)**
 
 **💻 Core Stack**  
-`Python` `Java` `JavaScript` `PHP` `Docker` `MySQL`
+`Python` `Java` `JavaScript` `PHP` `Docker` `MySQL` `Oracle DB`
 
 **🛡️ Goal**  
-Aspiring Software Engineer focused on building scalable backend systems, automating workflows, and engineering robust full-stack applications.
+Aspiring Software Engineer specializing in Full-Stack Architecture and AI, focused on building scalable backend systems and engineering robust applications.
