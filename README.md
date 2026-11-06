@@ -8,7 +8,6 @@ Linux • Python • Japanese
 
 **📫 How to reach me**  
 📧 Email: sese.christianjay.bayaron@gmail.com  
-📞 Phone: 09706978081  
 🌐 Portfolio: **[jaysese125.github.io/my-portfolio](https://jaysese125.github.io/my-portfolio)**
 
 **💻 Core Stack**  
