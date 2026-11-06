@@ -1,15 +1,18 @@
-👋 Hi, I’m @Jaysese125  
+### 👋 Hi, I’m @Jaysese125  
 
-👀 I’m interested in  
-Full-stack Development • Software Engineering • Networking • Cloud Infrastructure • Cybersecurity
+**👀 I’m interested in**  
+Full-Stack Development • Software Engineering • Cloud Infrastructure • Database Management
 
-🌱 I’m currently learning  
+**🌱 I’m currently learning**  
 Linux • Python • Japanese
 
-📫 How to reach me  
+**📫 How to reach me**  
 📧 Email: sese.christianjay.bayaron@gmail.com  
 📞 Phone: 09706978081  
-🌐 Portfolio: [jaysese125.github.io/my-portfolio](https://jaysese125.github.io/my-portfolio)
+🌐 Portfolio: **[jaysese125.github.io/my-portfolio](https://jaysese125.github.io/my-portfolio)**
 
-🛡️ Goal  
-Aspiring Cybersecurity Engineer focused on building secure systems and understanding real-world threats.
+**💻 Core Stack**  
+`Python` `Java` `JavaScript` `PHP` `Docker` `MySQL`
+
+**🛡️ Goal**  
+Aspiring Software Engineer focused on building scalable backend systems, automating workflows, and engineering robust full-stack applications.
